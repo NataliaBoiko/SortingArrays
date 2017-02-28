@@ -1,0 +1,20 @@
+C:\Users\Nata\AppData\Local\Temporary Projects\SortingArrays\bin\Debug\SortingArrays.exe
+C:\Users\Nata\AppData\Local\Temporary Projects\SortingArrays\bin\Debug\SortingArrays.pdb
+C:\Users\Nata\AppData\Local\Temporary Projects\SortingArrays\bin\Debug\SortingArrays.xml
+C:\Users\Nata\AppData\Local\Temporary Projects\SortingArrays\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nata\AppData\Local\Temporary Projects\SortingArrays\obj\Debug\SortingArrays.Form1.resources
+C:\Users\Nata\AppData\Local\Temporary Projects\SortingArrays\obj\Debug\SortingArrays.Resources.resources
+C:\Users\Nata\AppData\Local\Temporary Projects\SortingArrays\obj\Debug\SortingArrays.vbproj.GenerateResource.Cache
+C:\Users\Nata\AppData\Local\Temporary Projects\SortingArrays\obj\Debug\SortingArrays.exe
+C:\Users\Nata\AppData\Local\Temporary Projects\SortingArrays\obj\Debug\SortingArrays.xml
+C:\Users\Nata\AppData\Local\Temporary Projects\SortingArrays\obj\Debug\SortingArrays.pdb
+C:\Users\Nata\Documents\Visual Studio 2008\Projects\SortingArrays\SortingArrays\obj\Debug\SortingArrays.exe
+C:\Users\Nata\Documents\Visual Studio 2008\Projects\SortingArrays\SortingArrays\obj\Debug\SortingArrays.xml
+C:\Users\Nata\Documents\Visual Studio 2008\Projects\SortingArrays\SortingArrays\obj\Debug\SortingArrays.pdb
+C:\Users\Nata\Documents\Visual Studio 2008\Projects\SortingArrays\SortingArrays\bin\Debug\SortingArrays.exe
+C:\Users\Nata\Documents\Visual Studio 2008\Projects\SortingArrays\SortingArrays\bin\Debug\SortingArrays.pdb
+C:\Users\Nata\Documents\Visual Studio 2008\Projects\SortingArrays\SortingArrays\bin\Debug\SortingArrays.xml
+C:\Users\Nata\Documents\Visual Studio 2008\Projects\SortingArrays\SortingArrays\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nata\Documents\Visual Studio 2008\Projects\SortingArrays\SortingArrays\obj\Debug\SortingArrays.frmArrSorting.resources
+C:\Users\Nata\Documents\Visual Studio 2008\Projects\SortingArrays\SortingArrays\obj\Debug\SortingArrays.Resources.resources
+C:\Users\Nata\Documents\Visual Studio 2008\Projects\SortingArrays\SortingArrays\obj\Debug\SortingArrays.vbproj.GenerateResource.Cache
